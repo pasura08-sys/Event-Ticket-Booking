@@ -1,0 +1,27 @@
+.sign:active{
+background-color:cornsilk;
+}
+.log:active{
+background-color:wheat;
+}
+.home:active{
+background-color:wheat;
+}
+.mov:active{
+background-color:wheat;
+}
+.con:active{
+background-color:wheat;
+}
+.spo:active{
+background-color:wheat;
+}
+.sec{
+  font-size:40px;
+}
+.block{
+  font-size: x-large;
+}
+.rev:active{
+  background-color:wheat;
+}
